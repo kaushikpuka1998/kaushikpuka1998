@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushikpuka1998
 - 👀 I’m interested in Mobile Development,API Development
-- 🌱 I’m currently learning Flutter Development
+- 🌱 I’m currently Working as Software Engineer at Railyatri,Noida,India
 - 📫 How to reach me: kaushikghosh199832@gmail.com
 
 
