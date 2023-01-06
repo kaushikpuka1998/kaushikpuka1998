@@ -4,6 +4,7 @@
 - 📫 How to reach me: kaushikghosh199832@gmail.com
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaushikpuka1998&theme=dark)](https://git.io/streak-stats)
 
 [![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikpuka1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpuka1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,7 +13,7 @@ kaushikpuka1998/kaushikpuka1998 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaushikpuka1998)](https://git.io/streak-stats)
+
 
 Connect Me Through:
 <a href="https://www.linkedin.com/in/kaushik-g-886974109/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="kaushik_199832" height="50" width="50" /></a>
