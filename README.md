@@ -4,10 +4,11 @@
 - 📫 How to reach me: kaushikghosh199832@gmail.com
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaushikpuka1998&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaushikpuka1998&theme=vue)](https://git.io/streak-stats) <br/>
+[![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikpuka1998&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpuka1998&layout=vue)](https://github.com/anuraghazra/github-readme-stats) <br />
 
-[![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikpuka1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpuka1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 kaushikpuka1998/kaushikpuka1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
