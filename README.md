@@ -12,6 +12,8 @@ kaushikpuka1998/kaushikpuka1998 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaushikpuka1998)](https://git.io/streak-stats)
+
 Connect Me Through:
 <a href="https://www.linkedin.com/in/kaushik-g-886974109/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="kaushik_199832" height="50" width="50" /></a>
 <a href="https://leetcode.com/kgstrivers/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="kaushik_199832" height="50" width="50" /></a>
