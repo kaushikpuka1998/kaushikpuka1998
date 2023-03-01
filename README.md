@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushikpuka1998
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently Working as Software Engineer at Railyatri,Noida,India
+- 🌱 I’m currently Working as Software Engineer at Coding Ninjas,Gurgaon,India
 - 📫 How to reach me: kaushikghosh199832@gmail.com
 
 
