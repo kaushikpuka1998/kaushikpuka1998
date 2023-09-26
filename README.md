@@ -3,6 +3,10 @@
 - 🌱 I’m currently Working as Software Engineer at Coding Ninjas,Gurgaon,India
 - 📫 How to reach me: kaushikghosh199832@gmail.com
 
+<div style="flex">
+  <a href="https://app.daily.dev/kgstrivers"><img src="https://api.daily.dev/devcards/77336857defc44159be64e5ea8d1c8b9.png?r=v05" width="400" alt="Kaushik Ghosh's Dev Card"/></a>
+</div>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kaushikpuka1998&theme=vue)](https://git.io/streak-stats)  <br/>
 [![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikpuka1998&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)</br>
