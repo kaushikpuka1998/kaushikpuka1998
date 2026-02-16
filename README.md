@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @kaushikpuka1998<br>👀 I’m interested in Software Development<br>🌱 Currently working as a Software Engineer-2 at Tekion, Bangalore, India<br>💼 Previously worked at Coding-Ninjas & Railyatri<br>💻 Backend Development in Java and Ruby on Rails<br>🎓 B.Tech in Computer Science from Coochbehar Government Engineering College<br>🚀 Developed Food Grazo, an online food booking app<br>🏆 Codechef 3-star, highest rating: 1656 | Solved 600+ questions on Leetcode<br>📫 Reach me at: kgstrivers@gmail.com
+👋 Hi, I’m @kaushikpuka1998<br>👀 I’m interested in Software Development<br>🌱 Currently working as a Software Engineer-2 at Guidewire, Bangalore, India<br>💼 Previously worked at Tekion, Coding-Ninjas & Railyatri<br>💻 Backend Development in Java and Ruby on Rails<br>🎓 B.Tech in Computer Science from Coochbehar Government Engineering College<br>🚀 Developed Food Grazo, an online food booking app<br>🏆 Codechef 3-star, highest rating: 1656 | Solved 600+ questions on Leetcode<br>📫 Reach me at: kgstrivers@gmail.com
 
 
 ## 🌐 Socials:
