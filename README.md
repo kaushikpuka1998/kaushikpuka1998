@@ -12,16 +12,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaushikpuka1998&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpuka1998&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+### Github Activity
+[![Kaushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushikpuka1998&theme=tokyo-night)](https://github.com/kaushikpuka1998)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaushikpuka1998&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kaushikpuka1998&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=kaushikpuka1998&icon=3&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=kaushikpuka1998)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
