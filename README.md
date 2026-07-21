@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m @kaushikpuka1998<br>👀 I’m interested in Software Development<br>🌱 Currently working as a Software Engineer-2 at Guidewire, Bangalore, India<br>💼 Previously worked at Tekion, Coding-Ninjas & Railyatri<br>💻 Backend Development in Java and Ruby on Rails<br>🎓 B.Tech in Computer Science from Coochbehar Government Engineering College<br>🚀 Developed Food Grazo, an online food booking app<br>🏆 Codechef 3-star, highest rating: 1656 | Solved 600+ questions on Leetcode<br>📫 Portfolio: [https://kaushikpuka1998.github.io/portfolio/]() <br>📫 Reach me at: kgstrivers@gmail.com
 
+## My product on 
+<a href="https://www.producthunt.com/products/meetly-scheduler?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-meetly-5" target="_blank" rel="noopener noreferrer"><img alt="Meetly - Meetings, simplified | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1201434&amp;theme=light&amp;t=1784647929737"></a>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kgstrivers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kgstrivers) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kgstrivers) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kgstrivers) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kgstrivers6445) 
